@@ -1,14 +1,20 @@
-# Ranabhoomi-A Fireman Game
+# <p align=center> **Ranabhoomi-A Fireman Game**</p>
 
-This game was a project for the partial fulfillment of the course Object Oriented Programming in third semester of B.E. Computer Engineering, IOE, Tribhuwan University.
+This game was a project for the partial fulfillment of the course Object Oriented Programming in third semester of B.E. Computer Engineering, IOE, **Tribhuwan University**.
 
-Requirements to run the code:
-*C++
-*SFML
-*Winsock2
+## **Requirements to run the code:**
 
-Developers:<br>
-Rajan Neupane[https://github.com/Gamecoder11]<br>
-Sankalpa Rijal[https://github.com/rijalsankalp]<br>
-Saroj Prasad Mainali[https://github.com/VoidCU]<br>
-Shishir Kumar Regmi[https://github.com/Shishirkumarregmi]
+- C++
+- SFML
+- Winsock2
+
+### Developers:
+
+- [Rajan Neupane](https://github.com/Gamecoder11)
+- [Sankalpa Rijal](https://github.com/rijalsankalp)
+- [Saroj Prasad Mainali](https://github.com/VoidCU)
+- [Shishir Kumar Regmi](https://github.com/Shishirkumarregmi)
+
+<br>
+<hr>
+<p align=center><img src="./Media/Textures/bomb.png"></p><hr>
